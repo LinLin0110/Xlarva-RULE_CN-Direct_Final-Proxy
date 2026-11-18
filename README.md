@@ -25,6 +25,8 @@ https://raw.githubusercontent.com/entr0pia/SwitchyOmega-Whitelist/master/white-m
 ---
 
 ## Notes
-* **Size Limit**: Max **500 KB**. Used: **~450 KB** (IP: ~315 KB, Domain: ~135 KB). **~50 KB** (~200 domains) left for custom rules.
+* **Size Limit**: Max **500 KB**. Current usage: **~450 KB** (IP: ~315 KB, Domain: ~135 KB), leaving **~50 KB** (~200 domains) for custom rules.
+* **Custom Lists**: The URLs above are ready-made compact lists. Any list works within **IPs ≤ 4,500** + **Domains ≤ 700**.
+* **No Auto-Update**: URL import is one-time only; rules do not update automatically.
 * **Priority**: **Excluded Routes** override **Bare IP Requests** (CN IPs stay direct).
 * **DNS Check**: Add `ipleak.net` (`Direct`) to verify no DNS leaks.
